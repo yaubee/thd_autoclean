@@ -1,0 +1,10 @@
+[
+{
+ "frame_id":1, 
+ "filename":"/home/caubeeluck/git/autoclean/scripts/images/image_1722349794047.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"edge", "relative_coordinates":{"center_x":0.565414, "center_y":0.358443, "width":0.054619, "height":0.258719}, "confidence":0.385823}, 
+  {"class_id":0, "name":"edge", "relative_coordinates":{"center_x":0.365739, "center_y":0.177840, "width":0.060253, "height":0.320895}, "confidence":0.302313}
+ ] 
+}
+]

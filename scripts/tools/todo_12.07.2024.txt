@@ -1,0 +1,15 @@
+For next meeting 12.07.2024:
+[x] Capture Images with robot (50) ( for each, completely cleaned, low powder, with small amount powder) with both cameras (d405 and webcam)
+[ ] Cropping Images
+[x] Synchronize both conveyors (Strahlkabine)
+[x] Images folder in /inspection
+[ ] Write a save_json method in processes.py to save the output from inspection
+[x] Sensors build again next to the conveyor
+[x] Robot poses change (Add waypoints between stations)
+[ ] bin-picking: what could be some solutions? --> Gripper change to grasp all parts? 
+[ ] Write Christof
+[ ] Sequence for automation
+[ ] Run whole setup without interruption ( test 1 part, then 2, etc.)
+
+[ ] Erkennung von Pulver mit Bildern von Station (QS)
+Bauteil 11 -- not so good
