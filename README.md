@@ -48,17 +48,17 @@ Key components we have developed which can be 3D-printed include the gripper fin
 
 <div style="text-align: center;">
   <img src="docs/images/gripper_and_camera_holder_camera.png" alt="Fig. 2: Schunk Co-Act egp-c 40 gripper with custom fingers and camera mount." width="600" />
-  <p><strong>Fig. 2: Robot centered layout in AutoClean.</strong></p>
+  <p><strong>Fig. 2: Schunk Co-Act egp-c 40 gripper with custom fingers and camera mount.</strong></p>
 </div>
 
 The camera mount allows translational change in position which fits the best field of view for the camera.
 <div style="text-align: center;">
-  <img src="docs/images/gripper_and_camera_holder_side.png" alt="Fig. 3." width="600" />
-  <p><strong>Fig. 3: Robot centered layout in AutoClean.</strong></p>
+  <img src="docs/images/gripper_and_camera_holder_side.png" alt="Fig. 3: Side view: camera holder for standard static FOV of depth camera d435." width="600" />
+  <p><strong>Fig. 3: Side view: camera holder for standard static FOV of depth camera d435.</strong></p>
 </div>
 <div style="text-align: center;">
-  <img src="docs/images/gripper_and_camera_holder_extended.png" alt="Fig. 4: Schunk Co-Act egp-c 40 gripper with custom fingers and camera mount." width="600" />
-  <p><strong>Fig. 4: Robot centered layout in AutoClean.</strong></p>
+  <img src="docs/images/gripper_and_camera_holder_extended.png" alt="Fig. 4: Side view: camera holder extended for new FOV of depth camera d435." width="600" />
+  <p><strong>Fig. 4:  Side view: camera holder extended for new FOV of depth camera d435.</strong></p>
 </div>
 
 <div style="text-align: center;">
@@ -72,13 +72,13 @@ The scripts follow a specific control algorithm based on the material flow and l
 Additionally, YOLO CNN (image detection neural network) from Darknet is used for detection of edges in our [pipeline](https://github.com/thd-research/edge-grasp-pose-detection).
 
 <div style="text-align: center;">
-  <img src="docs/images/robot_centered_layout.PNG" alt="Fig. 3: Robot centered layout in AutoClean." width="600" />
-  <p><strong>Fig. 3: Robot centered layout in AutoClean.</strong></p>
+  <img src="docs/images/robot_centered_layout.PNG" alt="Fig. 6: Robot centered layout in AutoClean." width="600" />
+  <p><strong>Fig. 6: Robot centered layout in AutoClean.</strong></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="docs/images/schematic_automation.jpg" alt="Fig. 4: Automation schematic showcasing material flow." width="900" />
-  <p><strong>Fig. 4: Automation schematic showcasing material flow.</strong></p>
+  <img src="docs/images/schematic_automation.jpg" alt="Fig. 7: Automation schematic showcasing material flow." width="900" />
+  <p><strong>Fig. 7: Automation schematic showcasing material flow.</strong></p>
 </div>
 
   
